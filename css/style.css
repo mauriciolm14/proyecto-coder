@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: green;
+}
+
+body{
+    background-color:#245685;background-image: url(https://img.freepik.com/fotos-premium/oficina-edificio-moderno-fondo-cielo-azul_35761-196.jpg?w=1380);background-size: cover;font-family:Verdana
+}
+
+
+.botoncontacto{
+    color: #030608;
+    background:transparent;
+    border: 2px solid #245685;
+    border-radius: 6px;
+    font-family: Verdana;
+    
+    
+}
+.botoncontacto {
+      
+    border: none;
+    color: white;
+    padding: 4px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.botoncontacto {
+      background-color: #245685 ; 
+      background: transparent;
+      color: black; 
+      border: 3.5px solid #245685;
+}
+   
+.botoncontacto:hover {
+    background-color: #245685dc;
+    color: white;
+}
+
+.logo{
+    margin: 2%;
+}
+
