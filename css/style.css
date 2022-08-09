@@ -3,12 +3,13 @@
     padding: 0;
 }
 
-p {
-    color: green;
-}
+
 
 body{
-    background-color:#245685;background-image: url(https://img.freepik.com/fotos-premium/oficina-edificio-moderno-fondo-cielo-azul_35761-196.jpg?w=1380);background-size: cover;font-family:Verdana
+    background-color:#245685;
+    background-image: url(https://img.freepik.com/fotos-premium/oficina-edificio-moderno-fondo-cielo-azul_35761-196.jpg?w=1380);
+    background-size: cover;
+    font-family:Verdana
 }
 
 
@@ -46,7 +47,12 @@ body{
 
 
 
-
+.redes {
+    margin-left: 0%;
+    text-align: center;
+        flex-direction: column;
+        flex: 1;
+}
 
 
 
