@@ -1,52 +1,51 @@
-body{
-    background-color:#245685;background-image: url(https://img.freepik.com/foto-gratis/pared-gris-fila-focos-habitacion-vacia_53876-74616.jpg?t=st=1658342201~exp=1658342801~hmac=128286e705892d012a3fa497306da37286dd30e41cf70afa1e115e07790d609e&w=996);background-size: cover;font-family:Verdana
-    }
-    
+body {
+  background-color: #245685;
+  background-image: url(https://img.freepik.com/foto-gratis/pared-gris-fila-focos-habitacion-vacia_53876-74616.jpg?t=st=1658342201~exp=1658342801~hmac=128286e705892d012a3fa497306da37286dd30e41cf70afa1e115e07790d609e&w=996);
+  background-size: cover;
+  font-family: Verdana;
+}
 
-    #menu{
-        background-color: #245685 ;
-    }
+#menu {
+  background-color: #245685;
+}
 
-    #menu ul{
-      list-style: none;
-      margin: 0%;
-      padding: 0%;
-      }
-    #menu ul li{
-      display: inline-block;
-    }
-    #menu ul li a{
-      color: white;
-      display: block;
-      padding: 10px;
-      text-decoration: none;
-    }
-    #menu ul li a:hover{
-      background-color:#173857 ;        
-    }
+#menu ul {
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+}
 
-    main > .container {
-        padding: 30px 0;
-        
-    }
+#menu ul li {
+  display: inline-block;
+}
 
-    .carta {
-        margin: 1rem;
-        color: #1d517e;
-        
-    }
+#menu ul li a {
+  color: white;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
 
+#menu ul li a:hover {
+  background-color: #173857;
+}
 
-    footer{
-        background-color: #245685a6;
-        padding: 0.5em 0;
-        text-align: end;
-        position: static ;
-        bottom: 0%;
-        width: 100%;
-        color: rgb(226, 233, 240);
-        font-family:Verdana;
-        }
+main > .container {
+  padding: 30px 0;
+}
 
+.carta {
+  margin: 1rem;
+  color: #1d517e;
+}
 
-        
+footer {
+  background-color: rgba(36, 86, 133, 0.6509803922);
+  padding: 0.5em 0;
+  text-align: end;
+  position: static;
+  bottom: 0%;
+  width: 100%;
+  color: rgb(226, 233, 240);
+  font-family: Verdana;
+}/*# sourceMappingURL=ventas.css.map */
